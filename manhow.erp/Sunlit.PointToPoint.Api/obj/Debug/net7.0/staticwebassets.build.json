@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M5YDp3QDeksgRTF1Q5EF/5LZQwCI2em3eBCr89R9c1o=",
+  "Source": "Sunlit.PointToPoint.Api",
+  "BasePath": "_content/Sunlit.PointToPoint.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sunlit.PointToPoint.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Sunlit.Dispatch.Api.Controllers.AccountTokenController">
+            <summary>
+            Token API
+            </summary>
+        </member>
+        <member name="M:Sunlit.Dispatch.Api.Controllers.AccountTokenController.CreateToken(System.String)">
+            <summary>
+            取得Token
+            </summary>
+            <param name="account">帳號</param>
+            <returns></returns>
+        </member>
+        <member name="T:Sunlit.Dispatch.Api.Controllers.BaseApiController">
+            <summary>
+            API 基礎模型
+            </summary>
+        </member>
+        <member name="M:Sunlit.Dispatch.Api.Controllers.BaseApiController.GetUserId">
+            <summary>
+            取得使用者ID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Sunlit.Dispatch.Api.Middlewares.JwtMiddleware">
+            <summary>
+            驗證有效的 token 
+            </summary>
+        </member>
+        <member name="M:Sunlit.Dispatch.Api.Middlewares.JwtMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            </summary>
+            <param name="context"></param>
+            <param name="claimService"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunlit.Dispatch.Api.Middlewares.JwtMiddleware.IsAllowAnonymousRequest(System.String)">
+            <summary>
+            判斷是否為允許匿名的請求(不用token)
+            </summary>
+            <param name="path">請求路徑</param>
+        </member>
+        <member name="T:Sunlit.PointToPoint.Api.Controllers.RouteQueryController">
+            <summary>
+            路線查詢頁面API
+            </summary>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Controllers.RouteQueryController.#ctor(Interface.Service.RouteQuery.ITestManhowErpService)">
+            <summary>
+            
+            </summary>
+            <param name="routeQueryService"></param>
+            <param name="menuService"></param>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Controllers.RouteQueryController.Test">
+            <summary>
+            測試用API
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Sunlit.PointToPoint.Api.Middelwares.ExceptionMiddleware">
+            <summary>
+            Exception 中介層，
+            將系統上所有的 Exception 統一在這個物件上處理。
+            </summary>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.ExceptionMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.ExceptionMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.ExceptionMiddleware.FormatRequest(Microsoft.AspNetCore.Http.HttpRequest)">
+            <summary>
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Sunlit.PointToPoint.Api.Middelwares.LogMiddleware">
+            <summary>
+            Log 中介層
+            將系統上所有的 Log 統一在這個物件上處理。
+            </summary>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.LogMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            
+            </summary>
+            <param name="next"></param>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.LogMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunlit.PointToPoint.Api.Middelwares.LogMiddleware.FormatResponse(Microsoft.AspNetCore.Http.HttpResponse)">
+            <summary>
+            </summary>
+            <param name="response"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
