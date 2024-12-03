@@ -1,0 +1,771 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\manhowerptable\\testtable\\testeum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\manhowerptable\\testtable\\testeum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\testcarpallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\testcarpallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\manhowerptable\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\manhowerptable\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\service\\routequery\\testmanhowerpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|solutionrelative:service\\routequery\\testmanhowerpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\service\\routequery\\itestmanhowerpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\service\\routequery\\itestmanhowerpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\controllers\\routequerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\controllers\\routequerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\controllers\\accounttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\controllers\\accounttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\middelwares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\middelwares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\manhowerp\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\manhowerp\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|solutionrelative:service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B8E428-28DA-4F11-AB4F-B40976D90EAF}|Utility\\Utility.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\utility\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B8E428-28DA-4F11-AB4F-B40976D90EAF}|Utility\\Utility.csproj|solutionrelative:utility\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B8E428-28DA-4F11-AB4F-B40976D90EAF}|Utility\\Utility.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\utility\\helper\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B8E428-28DA-4F11-AB4F-B40976D90EAF}|Utility\\Utility.csproj|solutionrelative:utility\\helper\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\middelwares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\middelwares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\isqlbasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\isqlbasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\ierpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\ierpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\manhowerp\\testmanhowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\manhowerp\\testmanhowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\manhowerp\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\manhowerp\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\service\\token\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\service\\token\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{092B3EFE-3438-4D65-845C-2B11EBC814C6}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\sunlit.pointtopoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\sunlit.pointtopoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\manhowerp\\itestmanhowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\manhowerp\\itestmanhowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\response\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\response\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E563F-8485-40C3-A4B2-7C49F9738086}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{454E563F-8485-40C3-A4B2-7C49F9738086}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\pointtopointdb\\pointtopointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\pointtopointdb\\pointtopointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\erpdb\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\erpdb\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\mssql\\sqlservertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\mssql\\sqlservertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\require\\base64filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\require\\base64filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\isqlserveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\isqlserveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\repository\\mssql\\ipointtopointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\repository\\mssql\\ipointtopointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{098CEB79-4754-4FB6-B936-72F93EB99334}|Interface\\Interface.csproj|solutionrelative:interface\\interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\sunlit.pointtopoint.api\\middelwares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB5DE67-EAF0-42FC-939C-3694D9558D20}|Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj|solutionrelative:sunlit.pointtopoint.api\\middelwares\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\ClassLibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\ClassLibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF5D62AA-E9BA-49EF-8930-AA176AAA46CD}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454E563F-8485-40C3-A4B2-7C49F9738086}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{454E563F-8485-40C3-A4B2-7C49F9738086}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7EC233B-F3E1-4959-AB99-EA3DA3FCB891}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 391,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestEum.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\ManhowErpTable\\TestTable\\TestEum.cs",
+              "RelativeDocumentMoniker": "Model\\ManhowErpTable\\TestTable\\TestEum.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\ManhowErpTable\\TestTable\\TestEum.cs",
+              "RelativeToolTip": "Model\\ManhowErpTable\\TestTable\\TestEum.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:11:40.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestManhowErpService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\RouteQuery\\TestManhowErpService.cs",
+              "RelativeDocumentMoniker": "Service\\RouteQuery\\TestManhowErpService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\RouteQuery\\TestManhowErpService.cs",
+              "RelativeToolTip": "Service\\RouteQuery\\TestManhowErpService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:41:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCarPallet.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\TestCarPallet.cs",
+              "RelativeDocumentMoniker": "Model\\TestCarPallet.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\TestCarPallet.cs",
+              "RelativeToolTip": "Model\\TestCarPallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:58:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\ManhowErpTable\\Token.cs",
+              "RelativeDocumentMoniker": "Model\\ManhowErpTable\\Token.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\ManhowErpTable\\Token.cs",
+              "RelativeToolTip": "Model\\ManhowErpTable\\Token.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:42:13.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Test.cs",
+              "RelativeDocumentMoniker": "Model\\Test.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Test.cs",
+              "RelativeToolTip": "Model\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:40:51.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITestManhowErpService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Service\\RouteQuery\\ITestManhowErpService.cs",
+              "RelativeDocumentMoniker": "Interface\\Service\\RouteQuery\\ITestManhowErpService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Service\\RouteQuery\\ITestManhowErpService.cs",
+              "RelativeToolTip": "Interface\\Service\\RouteQuery\\ITestManhowErpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:35:55.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteQueryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\RouteQueryController.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Controllers\\RouteQueryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\RouteQueryController.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Controllers\\RouteQueryController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:51:13.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:26:24.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T09:04:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\appsettings.json",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T01:34:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\Token\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\Token\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\Token\\TokenService.cs",
+              "RelativeToolTip": "Service\\Token\\TokenService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA7wCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:29:24.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SqlServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\SqlServerContext.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\SqlServerContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\SqlServerContext.cs",
+              "RelativeToolTip": "Repository\\MsSql\\SqlServerContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:33:35.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountTokenController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\AccountTokenController.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Controllers\\AccountTokenController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Controllers\\AccountTokenController.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Controllers\\AccountTokenController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:22:40.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appsettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Utility\\Helper\\Appsettings.cs",
+              "RelativeDocumentMoniker": "Utility\\Helper\\Appsettings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Utility\\Helper\\Appsettings.cs",
+              "RelativeToolTip": "Utility\\Helper\\Appsettings.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:36:44.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Utility\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Utility\\Helper\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Utility\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "Utility\\Helper\\JwtHelper.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAmwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:34:01.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Middelwares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Middelwares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:25:53.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ManhowErp\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\ManhowErp\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ManhowErp\\TokenRepository.cs",
+              "RelativeToolTip": "Repository\\MsSql\\ManhowErp\\TokenRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:13:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Middelwares\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\JwtMiddleware.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Middelwares\\JwtMiddleware.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:07:27.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Program.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:16:54.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:29:26.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISqlBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ISqlBaseContext.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\ISqlBaseContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ISqlBaseContext.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\ISqlBaseContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA3wBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:33:15.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IErpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\IErpDbContext.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\IErpDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\IErpDbContext.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\IErpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:37:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "Repository\\DependencyInjection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:45:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ManhowErp\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\ManhowErp\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ManhowErp\\ITokenRepository.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\ManhowErp\\ITokenRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:40:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestManHowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ManhowErp\\TestManHowRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\ManhowErp\\TestManHowRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ManhowErp\\TestManHowRepository.cs",
+              "RelativeToolTip": "Repository\\MsSql\\ManhowErp\\TestManHowRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:04:43.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Service\\Token\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Interface\\Service\\Token\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Service\\Token\\ITokenService.cs",
+              "RelativeToolTip": "Interface\\Service\\Token\\ITokenService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:28:25.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sunlit.PointToPoint.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Sunlit.PointToPoint.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T02:25:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T06:24:15.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITestManHowRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ManhowErp\\ITestManHowRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\ManhowErp\\ITestManHowRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ManhowErp\\ITestManHowRepository.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\ManhowErp\\ITestManHowRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:52:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Response\\MenuModel.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\MenuModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Response\\MenuModel.cs",
+              "RelativeToolTip": "Model\\Response\\MenuModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:46:40.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T03:32:30.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Response\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Model\\Response\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Response\\ResponseModel.cs",
+              "RelativeToolTip": "Model\\Response\\ResponseModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:35:27.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PointToPointDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\PointToPointDb\\PointToPointDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\PointToPointDb\\PointToPointDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\PointToPointDb\\PointToPointDbContext.cs",
+              "RelativeToolTip": "Repository\\MsSql\\PointToPointDb\\PointToPointDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:35:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ErpDb\\ErpDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\ErpDb\\ErpDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\ErpDb\\ErpDbContext.cs",
+              "RelativeToolTip": "Repository\\MsSql\\ErpDb\\ErpDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:33:49.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SqlServerTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\SqlServerTransaction.cs",
+              "RelativeDocumentMoniker": "Repository\\MsSql\\SqlServerTransaction.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\MsSql\\SqlServerTransaction.cs",
+              "RelativeToolTip": "Repository\\MsSql\\SqlServerTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:48:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Base64FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Require\\Base64FileModel.cs",
+              "RelativeDocumentMoniker": "Model\\Require\\Base64FileModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Require\\Base64FileModel.cs",
+              "RelativeToolTip": "Model\\Require\\Base64FileModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:06:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ISqlServerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ISqlServerOptions.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\ISqlServerOptions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\ISqlServerOptions.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\ISqlServerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:45:37.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPointToPointDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\IPointToPointDbContext.cs",
+              "RelativeDocumentMoniker": "Interface\\Repository\\MsSql\\IPointToPointDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Repository\\MsSql\\IPointToPointDbContext.cs",
+              "RelativeToolTip": "Interface\\Repository\\MsSql\\IPointToPointDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:34:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T03:50:29.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Interface.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Interface.csproj",
+              "RelativeDocumentMoniker": "Interface\\Interface.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Interface\\Interface.csproj",
+              "RelativeToolTip": "Interface\\Interface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T03:33:18.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\LogMiddleware.cs",
+              "RelativeDocumentMoniker": "Sunlit.PointToPoint.Api\\Middelwares\\LogMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Sunlit.PointToPoint.Api\\Middelwares\\LogMiddleware.cs",
+              "RelativeToolTip": "Sunlit.PointToPoint.Api\\Middelwares\\LogMiddleware.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:13:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T03:40:55.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClassLibrary1.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\ClassLibrary1.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ClassLibrary1.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\ClassLibrary1.csproj",
+              "RelativeToolTip": "ClassLibrary1\\ClassLibrary1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T02:02:18.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:02:11.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Model",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T04:19:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ConsoleApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsoleApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\ConsoleApp1\\appsettings.json",
+              "RelativeToolTip": "ConsoleApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T02:17:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\manhow.erp\\manhow.erp\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T09:37:50.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
